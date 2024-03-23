@@ -1,7 +1,6 @@
 package quarkus.rest.health;
 
 import java.util.UUID;
-
 public class PatientDTO {
     private UUID id;
     private String name;
